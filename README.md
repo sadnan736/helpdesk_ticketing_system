@@ -40,9 +40,9 @@ It is a complete, deployed Laravel application with three roles (Super Admin, Ag
 
 | Role | Email | Password |
 |---|---|---|
-| 👑 Super Admin | `admin@example.com` | `REPLACE_WITH_DEMO_PASSWORD` |
-| 🛠️ Agent | `agent@example.com` | `REPLACE_WITH_DEMO_PASSWORD` |
-| 🙋 Customer | `customer@example.com` | `REPLACE_WITH_DEMO_PASSWORD` |
+| 👑 Super Admin | `admin@example.com` | `password4216` |
+| 🛠️ Agent | `agent@example.com` | `password4216` |
+| 🙋 Customer | `customer@example.com` | `password4216` |
 
 <!--
 OWNER NOTE (delete before publishing):
